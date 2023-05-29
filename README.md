@@ -1,2 +1,2 @@
 ## QA-Test-Practice
-### Simple Calculator test
+### Тестирование калькулятора
